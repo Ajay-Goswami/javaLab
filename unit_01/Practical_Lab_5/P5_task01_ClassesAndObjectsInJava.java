@@ -12,10 +12,10 @@ class ABC2 {
     static int b = 10;
 
     static void display() {
-        int b = 10;
+        int b = 12;
         b++;
 
-        // System.out.println(a);
+//         System.out.println(a);
         System.out.println(b);
     }
 

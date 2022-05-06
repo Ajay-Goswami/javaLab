@@ -21,7 +21,7 @@ class ABC3{
 	 */
 	static void display()
 	{
-		int b=10;
+		int b=11;
 		int a=10;
 		System.out.println(b);
 		
