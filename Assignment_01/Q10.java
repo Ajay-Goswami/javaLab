@@ -1,4 +1,4 @@
-/* Q10. WAP in Java Program To Survey Four Different Car Models For Four  
+/* Q10. WAP in Java Program To Survey Four Different Car Models For Four   
 Different Cities: Delhi Mumbai Chennai Kolkata
 
 Your job is to find out the total number of cars sold of each model in all 

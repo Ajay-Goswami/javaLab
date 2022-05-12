@@ -1,4 +1,4 @@
-/*
+/*Q1.
 WAP which would contain 6 objects, of a class
 Student. Student [Name, Age, section, percentage]. They all belong to Section-A. 
 Your program would be able to find the average percentage of students in this section. 
