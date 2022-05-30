@@ -9,7 +9,7 @@ import java.time.LocalDate;
 import java.time.LocalTime;
 import java.util.ArrayList;
 import java.util.List;
-import java.*;
+
 /*
  * - Byte and Character Streams
  * - Reading and writing from console and file
@@ -21,7 +21,7 @@ class ABCDEF {
 
     void takeInputFromAFile() throws IOException {
 
-        String path = "/Users/18-RAJAT/git/FirstJavaBasedProject/JavaBasicProject/src/Unit_03/Input.txt";
+        String path = "C:\\Users\\Ajay Goswami\\Desktop\\JavaLab\\unit_03\\Input.txt";
         File file = new File(path);
 
         BufferedReader br = new BufferedReader(new FileReader(file));
